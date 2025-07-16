@@ -14,13 +14,15 @@ Authentication is handled using **Firebase Auth**, while **Firestore Database** 
 Each user's data is stored securely so that only the respective user can access it.  
 Locally, data is managed with **RxDB** and synchronized seamlessly with the Firestore Database.
 
-## Screenshots
-
-![Home Page](BookAppHome.png)
-![Authors](BookAppAuthors.png)
-![Lists](BookAppLists.png)
-![Books](BookAppBooks.png)
-
 ## URL
 https://fir-proj-5fc6c.web.app/
 
+## Screenshots
+
+![Home Page](BookAppHome.png)
+
+![Authors](BookAppAuthors.png)
+
+![Lists](BookAppLists.png)
+
+![Books](BookAppBooks.png)

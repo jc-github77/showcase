@@ -32,7 +32,10 @@ BiblioTech is a modern web application designed to help you manage your personal
 -   **AI Functionality**: Google Genkit with the Gemini family of models.
 
 
-🔗 Explore the app firsthand by visiting https://ai-library-app-backend--ai-library-29397.us-central1.hosted.app/login.
+🔗 Explore the app firsthand by visiting: https://ai-library-app-backend--ai-library-29397.us-central1.hosted.app/login.
+
 🔑 Log in using the following credentials:
+
 Username: demo@maildrop.cc
+
 Password: demo123
