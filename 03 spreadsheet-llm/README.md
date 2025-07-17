@@ -18,3 +18,10 @@ This project provides a minimal setup for interacting with a Large Language Mode
 📦 Use Case
 
 Ideal for scenarios where structured spreadsheet data needs to be leveraged as context for generating intelligent responses via an LLM.
+
+Running:
+- Start llama3 in docker: docker exec -it ollama ollama run llama3
+
+- start server: in backend directory: node inde.js
+
+- frontend: open index.html file in frontend directoy in a browser
