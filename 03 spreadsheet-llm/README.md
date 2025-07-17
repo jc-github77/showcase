@@ -1,8 +1,8 @@
-🧠 Spreadsheet-Powered LLM Interaction
+# 🧠 Spreadsheet-Powered LLM Interaction
 
 This project provides a minimal setup for interacting with a Large Language Model (LLM) using spreadsheet data as contextual input.
 
-🔧 Architecture Overview
+## 🔧 Architecture Overview
 
 - LLM Runtime: The LLM (LLaMA 3) is hosted in a Docker container for isolated and reproducible execution.
 
@@ -15,13 +15,14 @@ This project provides a minimal setup for interacting with a Large Language Mode
 - A display area for rendering the LLM's response
 
 
-📦 Use Case
+## 📦 Use Case
 
 Ideal for scenarios where structured spreadsheet data needs to be leveraged as context for generating intelligent responses via an LLM.
 
-Running:
+## Running
+
 - Start llama3 in docker: docker exec -it ollama ollama run llama3
 
-- start server: in backend directory: node inde.js
+- start server: in backend directory: node index.js
 
-- frontend: open index.html file in frontend directoy in a browser
+- frontend: in frontend directory: open index.html file in a browser
